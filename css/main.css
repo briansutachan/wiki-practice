@@ -1,0 +1,17 @@
+body{
+    margin-top: 5vh;
+    text-align: center;
+}
+
+.imageContainer img{
+    border: 1px solid black;
+    min-width: 10vw;
+    min-height: 30vh;
+    margin-bottom: 2vh;
+
+}
+
+li {
+    list-style-type:none;
+}
+
